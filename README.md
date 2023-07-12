@@ -1,5 +1,5 @@
-# Project Name
-> Multiclass classification model using a custom convolutional neural network in TensorFlow
+# Multiclass classification model using a custom CNN
+> Builing a Multiclass classification model using a custom convolutional neural network in TensorFlow, keras
 
 
 ## Table of Contents
