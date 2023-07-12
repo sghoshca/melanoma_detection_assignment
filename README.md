@@ -15,6 +15,29 @@
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
+    Train Data: content/gdrive/My Drive/ML_Data/Skin_cancer/Train
+        actinic keratosis - 114 
+        basal cell carcinoma - 376
+        dermatofibroma - 95
+        melanoma - 438
+        nevus - 357
+        pigmented benign keratosis - 462
+        seborrheic keratosis - 77
+        squamous cell carcinoma - 181
+        vascular lesion - 139
+    
+    Test Data: content/gdrive/My Drive/ML_Data/Skin_cancer/Test
+        actinic keratosis - 114 
+        basal cell carcinoma - 376
+        dermatofibroma - 95
+        melanoma - 438
+        nevus - 357
+        pigmented benign keratosis - 462
+        seborrheic keratosis - 77
+        squamous cell carcinoma - 181
+        vascular lesion - 3
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
