@@ -38,7 +38,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Technologies/Libraries Used
 - tensorflow, keras
 - numpy, pandas
 - matplotlib
@@ -47,9 +47,9 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was part of CNN Module Assignment in UpGrad AI-ML Course
 - References: Library documention (https://keras.io/getting_started/)
+- Google Colab environment was used, Thanks to Google for providing free environment for ML enthusiasts
 
 
 ## Contact
