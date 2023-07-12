@@ -53,7 +53,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sghoshca] - feel free to contact me!
 
 
 <!-- Optional -->
